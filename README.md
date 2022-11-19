@@ -4,7 +4,7 @@
 - NodeJS - https://nodejs.org/en/download/
 
 ## Installation
-- Clone the repo: git clone [https://github.com/pabazj/task-board.git](https://github.com/pabazj/member-list.git)
+- Clone the repo: git clone https://github.com/pabazj/member-list.git
 - Change directory: cd member-list
 - Install node modules: npm install
 
